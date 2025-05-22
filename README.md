@@ -39,7 +39,7 @@ Digite dois números, selecione a operação desejada e clique em Calcular.
 
 📸 Prévia
 
-Você pode substituir essa imagem com um screenshot real da calculadora.
+![Animação](https://github.com/user-attachments/assets/094b4989-42a2-488b-9da9-673cbb1f25c1)
 
 🛠 Tecnologias Utilizadas
 HTML5
